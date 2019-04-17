@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 
-namespace CKEditor_Custom_Image_Upload_Adapter
+namespace CKEditor_Web
 {
     public class Program
     {
